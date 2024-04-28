@@ -18,7 +18,7 @@ class Platform (sprite.Sprite):
     """
     def __init__ (self,x,y):
         """
-        мы создаём функцию init
+        мы создаём функцию init она нам нужна 
         """
         
         sprite.Sprite.__init__(self)
