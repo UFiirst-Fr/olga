@@ -7,9 +7,10 @@ from pygame import *
 PLATFORM_WIDTH =32
 PLATFORM_HEIGHT=32
 PLATFORM_COLOR= "#FF6262"
-
-class  Platform (sprite.Sprite):
+с
+class Platform (sprite.Sprite):
     """
+    мы создаем класс Platform 
     """
     def __init__ (self,x,y):
         sprite.Sprite.__init__(self)
